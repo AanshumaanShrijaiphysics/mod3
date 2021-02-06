@@ -1,0 +1,19 @@
+#mob-menu {
+    clear: both;
+}
+
+#nav-head {
+    font-size: 30px;
+    color: black;
+}
+
+#main-section {
+    height: 1000px;
+}
+
+.sections {
+    background-color: grey;
+    border: 1px solid black;
+    margin-bottom: 50px;
+}
+
